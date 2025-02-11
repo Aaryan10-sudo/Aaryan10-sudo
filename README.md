@@ -29,7 +29,7 @@ Welcome to my GitHub profile! I'm a passionate developer, working on exciting pr
 ## 💬 Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/aaryan-sharma-6a508a317/)
-- [Website](https://www.aaryansharma.vercel.app)
+- [Website](https://aaryansharma.vercel.app)
 - [Email](mailto:lazyfox916@gmail.com)
 
 Feel free to reach out if you want to collaborate or just chat! 😄
