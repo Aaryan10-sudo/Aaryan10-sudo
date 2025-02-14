@@ -1,13 +1,11 @@
-# Hey there, I'm Aaryan Sharma! 👋
-
-Welcome to my GitHub profile! I'm a passionate developer, working on exciting projects and constantly learning new things.🚀
+Welcome to my GitHub profile! 🚀
 ---
 
 ## 🔧 Technologies & Tools
 
 - **Languages:** JavaScript, Dart,  C, TypeScript
 - **Frameworks / Libraries:** React, Node.js, Next Js, Express , Tailwind CSS
-- **Tools & Platforms:** Git, GitHub, Docker, AWS, Heroku, VSCode
+- **Tools & Platforms:** Git, GitHub, Docker, VSCode
 - **Databases:** PostgreSQL, MongoDB
 - **Other:** HTML5, CSS3, Bootstrap, GraphQL
   
