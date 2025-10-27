@@ -22,7 +22,7 @@
 - **Databases:** PostgreSQL, MongoDB
 - **Other:** HTML5, CSS3, Bootstrap, GraphQL
   
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aaryan10-sudo&langs_count=6&theme=radical)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aaryan10-sudo&langs_count=6&theme=donut-vertical)
 
 ---
 
