@@ -7,7 +7,7 @@
     style="border-radius: 100%;"
   />
 </p>
-  <h1 style="font-size: 28px; margin: 10px 0;">Github Stats</h1>
+  <h1 style="font-size: 28px; margin: 10px 0;">Aaryan10-SUDO</h1>
   <p>Welcome to my Github Stats!</p>
 </div>
 
