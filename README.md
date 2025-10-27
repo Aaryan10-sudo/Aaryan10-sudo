@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" width="100px" alt="GitHub Readme Stats" />
+  <img src="https://media.licdn.com/dms/image/v2/D4D03AQEIHwAVd4g83w/profile-displayphoto-shrink_800_800/B4DZdViVYBG8Ag-/0/1749486755242?e=1762992000&v=beta&t=pLspT-h9LRW6g_Vmf6XnwHi0AnItsxOyXmajTmlblbE" width="100px" alt="GitHub Readme Stats" />
   <h1 style="font-size: 28px; margin: 10px 0;">Github Stats</h1>
   <p>Welcome to my Github Stats!</p>
 </div>
