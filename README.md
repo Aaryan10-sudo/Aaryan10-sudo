@@ -14,9 +14,6 @@
 
 
 
-Welcome to my GitHub profile! 🚀
----
-
 ## 🔧 Technologies & Tools
 
 - **Languages:** JavaScript, Dart,  C, TypeScript
