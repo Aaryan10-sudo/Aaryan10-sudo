@@ -3,7 +3,7 @@
     src="https://media.licdn.com/dms/image/v2/D4D16AQEgbdLHAgu63g/profile-displaybackgroundimage-shrink_350_1400/B4DZrYYlGNGsAY-/0/1764566915179?e=1766016000&v=beta&t=D4UewByrW9AH7Z2CXZzy2iVLsje8M-NqaTkynpfjgG0"
     alt="Profile picture"
     width="100%"
-    style="border-radius: 100%;"
+    style="border-radius: 100%; border-radius: 40px"
   />
 
 
