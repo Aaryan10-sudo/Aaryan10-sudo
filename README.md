@@ -1,7 +1,7 @@
 <div align="center" style="border-radius: 100px; overflow: hidden;">
 <p align="center">
   <img 
-    src="https://media.licdn.com/dms/image/v2/D4D03AQEIHwAVd4g83w/profile-displayphoto-shrink_800_800/B4DZdViVYBG8Ag-/0/1749486755242?e=1762992000&v=beta&t=pLspT-h9LRW6g_Vmf6XnwHi0AnItsxOyXmajTmlblbE"
+    src="https://media.licdn.com/dms/image/v2/D4D16AQEgbdLHAgu63g/profile-displaybackgroundimage-shrink_350_1400/B4DZrYYlGNGsAY-/0/1764566915179?e=1766016000&v=beta&t=D4UewByrW9AH7Z2CXZzy2iVLsje8M-NqaTkynpfjgG0"
     alt="Profile picture"
     width="150"
     style="border-radius: 100%;"
