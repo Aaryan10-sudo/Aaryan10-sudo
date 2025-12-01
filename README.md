@@ -1,15 +1,11 @@
-<div align="center" style="border-radius: 100px; overflow: hidden;">
-<p align="center">
+
   <img 
     src="https://media.licdn.com/dms/image/v2/D4D16AQEgbdLHAgu63g/profile-displaybackgroundimage-shrink_350_1400/B4DZrYYlGNGsAY-/0/1764566915179?e=1766016000&v=beta&t=D4UewByrW9AH7Z2CXZzy2iVLsje8M-NqaTkynpfjgG0"
     alt="Profile picture"
-    width="150"
+    width="100%"
     style="border-radius: 100%;"
   />
-</p>
-  <h1 style="font-size: 28px; margin: 10px 0;">Aaryan10-SUDO</h1>
-  <p>Welcome to my Github Stats!</p>
-</div>
+
 
 
 
